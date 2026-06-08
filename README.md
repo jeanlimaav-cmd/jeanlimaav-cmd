@@ -64,16 +64,14 @@ My goal is to help businesses **streamline operations, enhance scalability, and 
 - 📝 **Transparent Documentation** – Clean code and handover-ready architecture  
 
 ---
-
 ## 📂 GitHub Highlights
 
-- [Care Advisor AI](https://github.com/jeanlimaav-cmd/careadvisor-ai) – Multi-agent lead qualification with LangChain & Supabase  
-- [Retell AI Virtual Receptionist](https://github.com/jeanlimaav-cmd/retell-ai-receptionist) – Multi-step automated AI workflows  
-- [FireCalorie API](https://github.com/jeanlimaav-cmd/firecalorie-api) – Multimodal async processing with OpenAI Vision  
-- [PostGIS Risk Analysis Prototype](https://github.com/jeanlimaav-cmd/postgis-risk-analysis) – Geospatial scoring & automation pipelines  
+- [agent-kode](https://github.com/jeanlimaav-cmd/agent-kode) – Multi-agent lead qualification with LangChain & Supabase  
+- [Retell AI Virtual Receptionist](https://github.com/jeanlimaav-cmd/agents-from-blank) – Multi-step automated AI workflows  
+- [FireCalorie API](https://github.com/jeanlimaav-cmd/openai-smart-vision) – Multimodal async processing with OpenAI Vision  
+- [PostGIS Risk Analysis Prototype](https://github.com/jeanlimaav-cmd/ai-reachgenie) – Geospatial scoring & automation pipelines  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanlimaav-cmd&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
 ---
 
 ## 🤝 Contact & Collaboration
