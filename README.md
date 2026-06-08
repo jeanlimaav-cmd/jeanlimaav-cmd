@@ -1,4 +1,4 @@
-# Hi there, I'm Jean Lima! 👋
+# Hi Everyone, I'm Jean Lima! 👋
 
 I'm an **AI Developer** based in Itapema, Brazil, with over **7 years of experience** in building modern web applications that leverage AI to solve real business challenges. My passion lies in creating scalable solutions that not only meet business needs but also enhance user experience through intelligent automation.
 
