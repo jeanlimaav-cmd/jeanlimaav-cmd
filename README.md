@@ -1,19 +1,20 @@
+
 # Hi Everyone, I'm Jean Lima! 👋
 
-I'm a **Senior AI & Full-Stack Developer** based in **Itapema, Brazil**, with **7+ years of experience** building modern web applications that integrate AI, automation, and scalable backend systems. I create production-ready solutions that solve real business problems, optimize workflows, and deliver intelligent user experiences.
+I'm a **Senior AI & Full-Stack Developer** based in **Itapema, Brazil**, with **7+ years of experience** building AI-driven web applications and automation systems. I create production-ready solutions that **streamline financial operations, automate workflows, and integrate AI-powered analytics**, delivering measurable impact for business efficiency.
 
 ---
 
 ## 🚀 Core Focus
 
-I specialize in developing **AI-enhanced web applications** with capabilities such as:
+I specialize in **AI-enhanced finance and operational systems**, including:
 
-- 🤖 **Autonomous AI Agents & Chatbots** – Lead qualification, customer support, multi-step workflows
-- ⚡ **Automation Pipelines** – Reduce manual tasks, increase operational efficiency
-- 🎨 **Multimodal Media Pipelines** – Text, audio, video, and image generation for AI-driven platforms
-- 📊 **Data Analytics & Insights** – Vector databases, RAG systems, and predictive analytics dashboards
+- 🤖 **AI & LLM Agents** – Multi-step automation for invoices, lead routing, and financial reconciliation  
+- ⚡ **Automation Pipelines** – Reduce manual financial operations, AP/AR reconciliation, reporting, and NF-e ingestion  
+- 🎨 **Document & Media Processing** – OCR, PDF/NF-e parsing, multimodal data processing, intelligent error handling  
+- 📊 **Finance Dashboards & Analytics** – KPI dashboards, cash flow forecasting, anomaly detection, predictive insights  
 
-My goal is to help businesses **streamline operations, enhance scalability, and deliver measurable impact**.
+My goal is to help businesses **modernize finance operations, ensure compliance, and improve operational efficiency**.
 
 ---
 
@@ -24,60 +25,63 @@ My goal is to help businesses **streamline operations, enhance scalability, and 
 | **Frontend** | React, Next.js, TypeScript, HTML5, CSS3, Tailwind/SCSS |
 | **Backend** | Node.js, Python, FastAPI, Express, REST/GraphQL APIs |
 | **Databases** | PostgreSQL, MongoDB, Supabase (Auth + Realtime) |
-| **AI / LLM** | OpenAI API, LangChain, Ollama, AutoGen, Pinecone, Qdrant |
-| **Automation** | n8n, Make, Zapier, custom Python pipelines |
+| **AI / LLM** | OpenAI API, Claude, Gemini, LangChain, Ollama, AutoGen, Pinecone, Qdrant |
+| **Automation / Workflow** | n8n, Make, Zapier, custom Python pipelines |
 | **Deployment / DevOps** | AWS, Docker, Kubernetes, CI/CD, Git/GitHub |
-| **Other Tools** | Twilio, WebRTC, RAG systems, vector embeddings |
+| **Brazil Finance Integration** | NF-e XML parsing, ContaAzul API, Belvo/Pluggy banking integration |
+| **Other Tools** | Twilio, WebRTC, vector embeddings, RAG systems |
 
 ---
 
-## 📂 Selected Projects
+## 📂 Selected Projects Relevant to Finance Automation
 
-### 1. **AI-Powered Lead Qualification**
-- Automated multi-step lead routing and scoring  
-- Processed **5,000+ leads monthly** with **95% accuracy**  
-- Integrated OpenAI API and CRM systems  
+### 1. **Invoice & Document AI Processing**
+- Automated invoice and receipt parsing using OCR and AI  
+- Integrated with downstream financial reporting and exception queues  
+- Demonstrates AP/AR automation pipelines similar to Brazilian finance workflows
 
-### 2. **SaaS Analytics Dashboards**
-- Real-time analytics dashboards with intelligent chatbot support  
-- Multi-tenant platform, AI-driven insights  
+### 2. **AI-Powered Lead & Workflow Automation**
+- Multi-agent LLM systems automating multi-step processes  
+- Implemented in n8n/Make with structured exception handling  
+- Shows experience in orchestrating approval gates and alerts
 
-### 3. **E-commerce AI Recommendations**
-- Personalized product suggestions using embeddings and AI ranking  
-- Increased conversions by **15–20%**  
+### 3. **Financial KPI & Analytics Dashboards**
+- Created live dashboards for key metrics, drillable to transactions  
+- Integrated with Postgres and ERP data sources  
+- Supports cash flow forecasting and anomaly detection
 
-### 4. **Customer Support Platforms**
-- Managed **10,000+ interactions monthly**, multilingual  
-- Multi-agent AI workflows, real-time messaging, webhooks  
-
-### 5. **PostGIS / Geospatial Prototype**
-- Designed PostGIS database for property-level risk scoring  
-- Automated data ingestion, spatial indexing, Python/GeoPandas processing  
+### 4. **Brazil Finance ERP Integration**
+- Built n8n nodes for ContaAzul API and automated NF-e ingestion  
+- Demonstrates hands-on experience with Brazilian accounting and compliance systems
 
 ---
 
 ## 🌟 Why Work With Me
 
-- 💡 **End-to-End AI & Full-Stack Expertise** – From API design to scalable frontends  
-- ⚙️ **Automation & Efficiency Focused** – Pipelines that save time and reduce errors  
-- 🏗️ **Production-Ready AI Solutions** – Deployed and maintained in live environments  
+- 💡 **End-to-End AI & Full-Stack Expertise** – API design, dashboards, automated pipelines  
+- ⚙️ **Finance Automation & Efficiency Focused** – AP/AR, reconciliation, reporting  
+- 🏗️ **Production-Ready AI Solutions** – Document extraction, AI agents, workflow orchestration  
 - 📝 **Transparent Documentation** – Clean code and handover-ready architecture  
+- 🇧🇷 **Brazil Market Expertise** – NF-e, ContaAzul, local banking APIs, native Portuguese  
 
 ---
-## 📂 GitHub Highlights
 
-- [agent-kode](https://github.com/jeanlimaav-cmd/agent-kode) – Multi-agent lead qualification with LangChain & Supabase  
-- [Retell AI Virtual Receptionist](https://github.com/jeanlimaav-cmd/agents-from-blank) – Multi-step automated AI workflows  
-- [FireCalorie API](https://github.com/jeanlimaav-cmd/openai-smart-vision) – Multimodal async processing with OpenAI Vision  
-- [PostGIS Risk Analysis Prototype](https://github.com/jeanlimaav-cmd/ai-reachgenie) – Geospatial scoring & automation pipelines  
+## 📂 GitHub Highlights (Finance + AI Automation)
+
+- [receipt-ocr](https://github.com/jeanlimaav-cmd/receipt-ocr) – AI + OCR pipeline for invoices and receipts  
+- [openai-smart-vision](https://github.com/jeanlimaav-cmd/openai-smart-vision) – Document extraction & multimodal AI vision pipelines  
+- [invoice-ai-processing](https://github.com/jeanlimaav-cmd/invoice-ai-processing) – AP/AR automation, exception handling, financial reporting integration  
+- [ai-reachgenie](https://github.com/jeanlimaav-cmd/ai-reachgenie) – Multi-step AI workflow orchestration  
+- [n8n-nodes-contaazul](https://github.com/jeanlimaav-cmd/n8n-nodes-contaazul) – Brazilian ERP automation, NF-e, and bank integration  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanlimaav-cmd&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
 ---
 
 ## 🤝 Contact & Collaboration
 
-I am available for **freelance, contract, or full-time roles** in AI, Full-Stack, and Automation systems. Let’s discuss your project and how I can build **scalable, intelligent solutions**.  
+I am available for **freelance, contract, or full-time roles** in AI, Full-Stack, and **finance automation systems**. Let’s discuss your project and how I can **deliver scalable, compliant, and intelligent solutions**.
 
 - 📧 **Email:** jeanlimaav@gmail.com
 
-Let’s **build intelligent systems that deliver measurable results!** 🚀
+Let’s **modernize finance operations with AI and automation!** 🚀
