@@ -74,7 +74,6 @@ My goal is to help businesses **modernize finance operations, ensure compliance,
 - [ai-reachgenie](https://github.com/jeanlimaav-cmd/ai-reachgenie) – Multi-step AI workflow orchestration  
 - [n8n-nodes-contaazul](https://github.com/jeanlimaav-cmd/n8n-nodes-contaazul) – Brazilian ERP automation, NF-e, and bank integration  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanlimaav-cmd&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ---
 
