@@ -1,7 +1,7 @@
 
-# Jean Lima - AI Automation & Full Stack Engineer | GHL, RAG, LLM APIs! 👋
+# Jean Lima - AI Automation & Full Stack | GHL, RAG, LLM APIs! 👋
 
-I'm a **Senior AI & Full-Stack Developer** based in **Itapema, Brazil**, with **7+ years of experience** building modern web applications with AI intelligence - **chatbots, workflow automation, and CRM systems that run without manual work**.
+I'm a **AI & Full-Stack Engineer** based in **Itapema, Brazil**, with **7+ years of experience** building modern web applications with AI intelligence - **chatbots, workflow automation, and CRM systems that run without manual work**.
 With 7+ years of experience in full-stack development and AI integration, I connect LLM APIs, vector databases, and no-code tools into end-to-end systems that capture leads, process data, and handle customer conversations automatically.
 
 I specialize in GoHighLevel (GHL) automation - wiring CRM, funnels, and AI agents together with webhooks and external APIs to automate lead capture, follow-ups, and sales workflows completely.
@@ -21,15 +21,7 @@ Building intelligent systems that can reason, retrieve information, and automate
 - Knowledge-base chatbots
 - AI workflow orchestration
 
-Technologies:
-
-- OpenAI API
-- Claude
-- Gemini
-- LangChain
-- AutoGen
-- Ollama
-- Vector databases (Pinecone, Qdrant, pgvector)
+Technologies: OpenAI API • Claude • Gemini • LangChain • AutoGen • Ollama • Vector databases (Pinecone, Qdrant, pgvector)
 
 ---
 
@@ -46,14 +38,7 @@ Examples:
 - Data extraction workflows
 - Approval and notification systems
 
-Tools:
-
-- n8n
-- Make
-- Zapier
-- Custom Python automation
-- Webhooks
-- REST APIs
+Tools: n8n • Make • Zapier • Custom Python automation • Webhooks • REST APIs
 
 ---
 
@@ -95,14 +80,14 @@ Transforming unstructured business data into usable information:
 
 | Category | Technologies |
 |---|---|
-| Frontend | React, Next.js, TypeScript, HTML5, CSS3, Tailwind |
-| Backend | Node.js, Python, FastAPI, Express |
+| Automation | n8n, Make, Zapier, Python pipelines |
 | AI / LLM | OpenAI API, Claude, Gemini, LangChain, AutoGen, Ollama |
 | RAG | Pinecone, Qdrant, pgvector, embeddings, vector search |
-| Automation | n8n, Make, Zapier, Python pipelines |
 | Databases | PostgreSQL, MongoDB, Supabase |
 | Cloud | AWS, Docker, Kubernetes, CI/CD |
 | APIs | REST, GraphQL, Webhooks |
+| Backend | Node.js, Python, FastAPI, Express |
+| Frontend | React, Next.js, TypeScript, HTML5, CSS3, Tailwind |
 | Communication | Twilio, WebRTC |
 
 ---
@@ -118,9 +103,7 @@ Built an automated lead processing pipeline:
 - Routed qualified leads automatically
 - Reduced manual sales operations
 
-Stack:
-
-`n8n + OpenAI API + Webhooks + CRM Integration`
+Stack: `n8n + OpenAI API + Webhooks + CRM Integration`
 
 ---
 
@@ -136,9 +119,7 @@ Features:
 - Context-aware responses
 - Knowledge-base automation
 
-Stack:
-
-`Python + LangChain + OpenAI + Qdrant`
+Stack: `Python + LangChain + OpenAI + Qdrant`
 
 ---
 
@@ -168,9 +149,7 @@ Created dashboards combining operational data with AI insights:
 - Data visualization
 - Automated analysis
 
-Stack:
-
-`Next.js + TypeScript + PostgreSQL + AI APIs`
+Stack: `Next.js + TypeScript + PostgreSQL + AI APIs`
 
 ---
 
@@ -186,16 +165,6 @@ I help companies transform repetitive manual processes into intelligent automate
 
 ---
 
-📫 Open to collaborations involving:
-
-- AI Agents
-- RAG applications
-- Workflow automation
-- CRM integrations
-- SaaS platforms
-- Finance automation
----
-
 ## 📂 GitHub Highlights (Finance + AI Automation)
 
 - [receipt-ocr](https://github.com/jeanlimaav-cmd/receipt-ocr) – AI + OCR pipeline for invoices and receipts  
@@ -204,13 +173,14 @@ I help companies transform repetitive manual processes into intelligent automate
 - [ai-reachgenie](https://github.com/jeanlimaav-cmd/ai-reachgenie) – Multi-step AI workflow orchestration  
 - [n8n-nodes-contaazul](https://github.com/jeanlimaav-cmd/n8n-nodes-contaazul) – Brazilian ERP automation, NF-e, and bank integration  
 
-
 ---
 
 ## 🤝 Contact & Collaboration
 
-I am available for **freelance, contract, or full-time roles** in AI, Full-Stack, and **finance automation systems**. Let’s discuss your project and how I can **deliver scalable, compliant, and intelligent solutions**.
+I am available for **freelance, contract, or full-time roles** in AI, Full-Stack, and **finance automation systems**. 
+Let’s discuss your project and how I can **deliver scalable, compliant, and intelligent solutions**.
 
+- 📱 **WhatsApp:** +1 (361) 332-6512
 - 📧 **Email:** jeanlimaav@gmail.com
 
 Let’s **modernize finance operations with AI and automation!** 🚀
