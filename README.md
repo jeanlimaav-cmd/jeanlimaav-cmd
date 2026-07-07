@@ -1,25 +1,16 @@
 
-# Hi Everyone, I'm Jean Lima - AI Automation & Full Stack Engineer | GHL, RAG, LLM APIs! 👋
+# Jean Lima - AI Automation & Full Stack Engineer | GHL, RAG, LLM APIs! 👋
 
 I'm a **Senior AI & Full-Stack Developer** based in **Itapema, Brazil**, with **7+ years of experience** building modern web applications with AI intelligence - **chatbots, workflow automation, and CRM systems that run without manual work**.
 With 7+ years of experience in full-stack development and AI integration, I connect LLM APIs, vector databases, and no-code tools into end-to-end systems that capture leads, process data, and handle customer conversations automatically.
 
 I specialize in GoHighLevel (GHL) automation - wiring CRM, funnels, and AI agents together with webhooks and external APIs to automate lead capture, follow-ups, and sales workflows completely.
----
-My focus is connecting:
 
-- 🤖 LLMs & AI Agents
-- ⚡ Automation platforms
-- 📊 Business data systems
-- 🌐 Modern web applications
-- 🔌 APIs and enterprise integrations
-
-I specialize in building production-ready solutions using **OpenAI APIs, RAG architectures, workflow automation, CRM integrations, and full-stack technologies.**
 ---
 
-# 🚀 Core Focus
+## 🚀 Core Focus
 
-## 🤖 AI Agents & LLM Applications
+### 🤖 AI Agents & LLM Applications
 
 Building intelligent systems that can reason, retrieve information, and automate business processes:
 
@@ -42,7 +33,7 @@ Technologies:
 
 ---
 
-## ⚡ Business Automation & Workflow Systems
+### ⚡ Business Automation & Workflow Systems
 
 I create automation pipelines that connect tools, APIs, and AI models.
 
@@ -66,7 +57,7 @@ Tools:
 
 ---
 
-## 💰 Finance & Operational Automation
+### 💰 Finance & Operational Automation
 
 Specialized experience building intelligent systems for finance operations:
 
@@ -87,7 +78,7 @@ Experience with:
 
 ---
 
-## 🎨 Document & Data Intelligence
+### 🎨 Document & Data Intelligence
 
 Transforming unstructured business data into usable information:
 
@@ -100,7 +91,7 @@ Transforming unstructured business data into usable information:
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 | Category | Technologies |
 |---|---|
@@ -116,9 +107,9 @@ Transforming unstructured business data into usable information:
 
 ---
 
-# 📂 Selected Projects
+## 📂 Selected Projects
 
-## 🤖 AI Lead Qualification System
+### 🤖 AI Lead Qualification System
 
 Built an automated lead processing pipeline:
 
@@ -133,7 +124,7 @@ Stack:
 
 ---
 
-## 🧠 RAG Knowledge Assistant
+### 🧠 RAG Knowledge Assistant
 
 Developed an AI chatbot capable of answering questions from private business documents.
 
@@ -151,7 +142,7 @@ Stack:
 
 ---
 
-## 💰 Finance Reconciliation Automation
+### 💰 Finance Reconciliation Automation
 
 Built automation workflows for financial operations:
 
@@ -168,7 +159,7 @@ Integrations:
 
 ---
 
-## 📊 AI Business Analytics Dashboard
+### 📊 AI Business Analytics Dashboard
 
 Created dashboards combining operational data with AI insights:
 
@@ -183,7 +174,7 @@ Stack:
 
 ---
 
-# 🌟 Why Work With Me
+## 🌟 Why Work With Me
 
 ✅ End-to-end AI automation development  
 ✅ Strong full-stack engineering background  
