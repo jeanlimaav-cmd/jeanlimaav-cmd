@@ -1,69 +1,208 @@
 
-# Hi Everyone, I'm Jean Lima! 👋
+# Hi Everyone, I'm Jean Lima - AI Automation & Full Stack Engineer | GHL, RAG, LLM APIs! 👋
 
-I'm a **Senior AI & Full-Stack Developer** based in **Itapema, Brazil**, with **7+ years of experience** building AI-driven web applications and automation systems. I create production-ready solutions that **streamline financial operations, automate workflows, and integrate AI-powered analytics**, delivering measurable impact for business efficiency.
+I'm a **Senior AI & Full-Stack Developer** based in **Itapema, Brazil**, with **7+ years of experience** building modern web applications with AI intelligence - **chatbots, workflow automation, and CRM systems that run without manual work**.
+With 7+ years of experience in full-stack development and AI integration, I connect LLM APIs, vector databases, and no-code tools into end-to-end systems that capture leads, process data, and handle customer conversations automatically.
+
+I specialize in GoHighLevel (GHL) automation - wiring CRM, funnels, and AI agents together with webhooks and external APIs to automate lead capture, follow-ups, and sales workflows completely.
+---
+My focus is connecting:
+
+- 🤖 LLMs & AI Agents
+- ⚡ Automation platforms
+- 📊 Business data systems
+- 🌐 Modern web applications
+- 🔌 APIs and enterprise integrations
+
+I specialize in building production-ready solutions using **OpenAI APIs, RAG architectures, workflow automation, CRM integrations, and full-stack technologies.**
+---
+
+# 🚀 Core Focus
+
+## 🤖 AI Agents & LLM Applications
+
+Building intelligent systems that can reason, retrieve information, and automate business processes:
+
+- Multi-step AI agents
+- LLM-powered assistants
+- RAG (Retrieval-Augmented Generation) systems
+- Semantic search
+- Knowledge-base chatbots
+- AI workflow orchestration
+
+Technologies:
+
+- OpenAI API
+- Claude
+- Gemini
+- LangChain
+- AutoGen
+- Ollama
+- Vector databases (Pinecone, Qdrant, pgvector)
 
 ---
 
-## 🚀 Core Focus
+## ⚡ Business Automation & Workflow Systems
 
-I specialize in **AI-enhanced finance and operational systems**, including:
+I create automation pipelines that connect tools, APIs, and AI models.
 
-- 🤖 **AI & LLM Agents** – Multi-step automation for invoices, lead routing, and financial reconciliation  
-- ⚡ **Automation Pipelines** – Reduce manual financial operations, AP/AR reconciliation, reporting, and NF-e ingestion  
-- 🎨 **Document & Media Processing** – OCR, PDF/NF-e parsing, multimodal data processing, intelligent error handling  
-- 📊 **Finance Dashboards & Analytics** – KPI dashboards, cash flow forecasting, anomaly detection, predictive insights  
+Examples:
 
-My goal is to help businesses **modernize finance operations, ensure compliance, and improve operational efficiency**.
+- Lead qualification automation
+- CRM workflow automation
+- Automated customer support
+- Document processing pipelines
+- Data extraction workflows
+- Approval and notification systems
 
----
+Tools:
 
-## 💻 Tech Stack
-
-| Layer | Tools / Technologies |
-|-------|--------------------|
-| **Frontend** | React, Next.js, TypeScript, HTML5, CSS3, Tailwind/SCSS |
-| **Backend** | Node.js, Python, FastAPI, Express, REST/GraphQL APIs |
-| **Databases** | PostgreSQL, MongoDB, Supabase (Auth + Realtime) |
-| **AI / LLM** | OpenAI API, Claude, Gemini, LangChain, Ollama, AutoGen, Pinecone, Qdrant |
-| **Automation / Workflow** | n8n, Make, Zapier, custom Python pipelines |
-| **Deployment / DevOps** | AWS, Docker, Kubernetes, CI/CD, Git/GitHub |
-| **Brazil Finance Integration** | NF-e XML parsing, ContaAzul API, Belvo/Pluggy banking integration |
-| **Other Tools** | Twilio, WebRTC, vector embeddings, RAG systems |
+- n8n
+- Make
+- Zapier
+- Custom Python automation
+- Webhooks
+- REST APIs
 
 ---
 
-## 📂 Selected Projects Relevant to Finance Automation
+## 💰 Finance & Operational Automation
 
-### 1. **Invoice & Document AI Processing**
-- Automated invoice and receipt parsing using OCR and AI  
-- Integrated with downstream financial reporting and exception queues  
-- Demonstrates AP/AR automation pipelines similar to Brazilian finance workflows
+Specialized experience building intelligent systems for finance operations:
 
-### 2. **AI-Powered Lead & Workflow Automation**
-- Multi-agent LLM systems automating multi-step processes  
-- Implemented in n8n/Make with structured exception handling  
-- Shows experience in orchestrating approval gates and alerts
+- Invoice processing
+- AP/AR automation
+- Financial reconciliation
+- ERP integrations
+- Reporting automation
+- Document intelligence
 
-### 3. **Financial KPI & Analytics Dashboards**
-- Created live dashboards for key metrics, drillable to transactions  
-- Integrated with Postgres and ERP data sources  
-- Supports cash flow forecasting and anomaly detection
+Experience with:
 
-### 4. **Brazil Finance ERP Integration**
-- Built n8n nodes for ContaAzul API and automated NF-e ingestion  
-- Demonstrates hands-on experience with Brazilian accounting and compliance systems
+- NF-e XML processing
+- ContaAzul API integration
+- Banking APIs
+- Financial dashboards
+- Transaction data pipelines
 
 ---
 
-## 🌟 Why Work With Me
+## 🎨 Document & Data Intelligence
 
-- 💡 **End-to-End AI & Full-Stack Expertise** – API design, dashboards, automated pipelines  
-- ⚙️ **Finance Automation & Efficiency Focused** – AP/AR, reconciliation, reporting  
-- 🏗️ **Production-Ready AI Solutions** – Document extraction, AI agents, workflow orchestration  
-- 📝 **Transparent Documentation** – Clean code and handover-ready architecture  
-- 🇧🇷 **Brazil Market Expertise** – NF-e, ContaAzul, local banking APIs, native Portuguese  
+Transforming unstructured business data into usable information:
 
+- OCR pipelines
+- PDF/document extraction
+- Invoice intelligence
+- Multimodal AI processing
+- Data validation systems
+- Exception handling workflows
+
+---
+
+# 💻 Tech Stack
+
+| Category | Technologies |
+|---|---|
+| Frontend | React, Next.js, TypeScript, HTML5, CSS3, Tailwind |
+| Backend | Node.js, Python, FastAPI, Express |
+| AI / LLM | OpenAI API, Claude, Gemini, LangChain, AutoGen, Ollama |
+| RAG | Pinecone, Qdrant, pgvector, embeddings, vector search |
+| Automation | n8n, Make, Zapier, Python pipelines |
+| Databases | PostgreSQL, MongoDB, Supabase |
+| Cloud | AWS, Docker, Kubernetes, CI/CD |
+| APIs | REST, GraphQL, Webhooks |
+| Communication | Twilio, WebRTC |
+
+---
+
+# 📂 Selected Projects
+
+## 🤖 AI Lead Qualification System
+
+Built an automated lead processing pipeline:
+
+- Connected inbound sources with automation workflows
+- Used LLM scoring and classification
+- Routed qualified leads automatically
+- Reduced manual sales operations
+
+Stack:
+
+`n8n + OpenAI API + Webhooks + CRM Integration`
+
+---
+
+## 🧠 RAG Knowledge Assistant
+
+Developed an AI chatbot capable of answering questions from private business documents.
+
+Features:
+
+- Document ingestion pipeline
+- Vector embeddings
+- Semantic search
+- Context-aware responses
+- Knowledge-base automation
+
+Stack:
+
+`Python + LangChain + OpenAI + Qdrant`
+
+---
+
+## 💰 Finance Reconciliation Automation
+
+Built automation workflows for financial operations:
+
+- ERP data extraction
+- Transaction reconciliation
+- Exception detection
+- Automated reporting
+
+Integrations:
+
+- ContaAzul API
+- Banking APIs
+- NF-e XML processing
+
+---
+
+## 📊 AI Business Analytics Dashboard
+
+Created dashboards combining operational data with AI insights:
+
+- Real-time metrics
+- Business KPIs
+- Data visualization
+- Automated analysis
+
+Stack:
+
+`Next.js + TypeScript + PostgreSQL + AI APIs`
+
+---
+
+# 🌟 Why Work With Me
+
+✅ End-to-end AI automation development  
+✅ Strong full-stack engineering background  
+✅ Production-ready architecture  
+✅ Experience integrating business systems  
+✅ Clean documentation and maintainable code  
+
+I help companies transform repetitive manual processes into intelligent automated systems.
+
+---
+
+📫 Open to collaborations involving:
+
+- AI Agents
+- RAG applications
+- Workflow automation
+- CRM integrations
+- SaaS platforms
+- Finance automation
 ---
 
 ## 📂 GitHub Highlights (Finance + AI Automation)
